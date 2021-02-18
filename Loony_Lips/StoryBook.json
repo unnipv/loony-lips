@@ -1,0 +1,14 @@
+[
+{
+ "prompts" : ["name of village","name of building","name of family"],
+ "story" : "The villagers of %s still called it ‘%s', even though it had been many years since the %s had lived there."
+},
+{
+"prompts" : ["name","number"],
+"story" : "%s wakes up in an unrecognizable city that is at least %s years more advanced in technology than we are today."
+},
+{
+"prompts" : ["name","creature","superpower"],
+"story" : "%s wakes one morning and finds that they have turned into %s that is capable of %s"
+}
+]
